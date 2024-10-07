@@ -1,3 +1,5 @@
+![screenshot of project](./ss.png)
+
 ## research
 
 A new project I decided to take on after seeeing [Veritasium’s video](https://youtu.be/w5ebcowAJD8?feature=shared) on it. I think the whole system of the QR (Quick Response) code is fascinating, and even more so when I found out the range of applications it has. 
