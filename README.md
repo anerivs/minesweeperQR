@@ -41,11 +41,15 @@ It’s been a while since I wrote properly in C, but this was a good refresher. 
 
 here’s how I compile: 
 
-- gcc -o game game.c → produces game.exe
+```python
+gcc -o game game.c → produces game.exe
+```
 
 to execute: 
 
-- game.exe
+```python
+game.exe
+```
 
 ## compressing
 
